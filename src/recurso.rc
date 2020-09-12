@@ -1,0 +1,5 @@
+MARCA_DAGUA RCDATA "imagens/ufpi_half_fundo.png"
+image_add RCDATA "imagens/image_add.png"
+image_solve RCDATA "imagens/image_solve.png"
+image_cls RCDATA "imagens/image_clear.png"
+

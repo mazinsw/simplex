@@ -1,0 +1,6 @@
+*.res
+*.exe
+*.o
+*.dropbox*
+desktop.ini
+*.iso

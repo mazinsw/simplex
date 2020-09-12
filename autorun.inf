@@ -1,0 +1,4 @@
+[AUTORUN]
+OPEN=Simplex.exe
+ICON=imagens\icone.ico
+LABEL=Programa Simplex

@@ -1,0 +1,29 @@
+Ao digitar as expressões não utilize parênteses, chaves ou colchetes.
+
+Apenas expressões com <= ou >= são resolvidas.
+
+caso queira especificar que todas as variáveis são positivas
+não esqueça de informar todas que estão presentes nas 
+restrições e função objetivo.
+
+você pode colar um conjunto completo ou incompleto de
+restrições dentro da caixa de texto, que todas expressões
+serão adicionadas e todas as anteriores serão descartadas
+
+é possível arrastar e soltar um arquivo qualquer que contenha
+expressões sobre o visualizador de expressões
+
+Substituindo e Limpando restrições:
+para limpar todas as restrições e função objetivo
+clique em Limpar
+caso queira apenas alterar a função objetivo apenas
+insira uma nova função, a mesma irá sobrescrer a atual
+assim também acontece com restrições como x1, x2 >= 0
+
+Resolvendo e reiniciando o Simplex:
+após inserir todas as restrições e a função objetivo
+o botão Resolver será habilitado, clique nele para iniciar
+a resolução do problema pelo método do simplex
+
+a qualquer momento após o inicio você pode reiniciar o processo de resolução
+do problema clicando em Reiniciar
